@@ -1,2 +1,6 @@
 Fruit  &  vegetable
 -------------------
+
+banana
+lotus root
+snow pass
